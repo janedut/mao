@@ -583,7 +583,7 @@ td {
 }
 .post-container .post .post-info time::after,
 .post-container .post .post-info .leancloud_visitors::after {
-  content: "/";
+  content: "·";
 }
 .post-container .post .post-feature-image {
   display: block;
@@ -779,7 +779,7 @@ span.vat {
 }
 .post-detail .post .post-info time::after,
 .post-detail .post .post-info .leancloud_visitors::after {
-  content: "/";
+  content: "·";
 }
 .post-detail .post .post-content a {
   color: #006CFF;
