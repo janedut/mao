@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://janedut.github.io/mao/</id>
+    <title>Aohuiliu</title>
+    <updated>2022-04-26T05:03:25.303Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://janedut.github.io/mao/"/>
+    <link rel="self" href="https://janedut.github.io/mao/atom.xml"/>
+    <subtitle>记录学习，记录生活。</subtitle>
+    <logo>https://janedut.github.io/mao/images/avatar.png</logo>
+    <icon>https://janedut.github.io/mao/favicon.ico</icon>
+    <rights>All rights reserved 2022, Aohuiliu</rights>
+    <entry>
+        <title type="html"><![CDATA[4.25]]></title>
+        <id>https://janedut.github.io/mao/post/425/</id>
+        <link href="https://janedut.github.io/mao/post/425/">
+        </link>
+        <updated>2022-04-25T13:55:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>特邀作者：猫猫</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>特邀作者：猫猫</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.24]]></title>
+        <id>https://janedut.github.io/mao/post/424/</id>
+        <link href="https://janedut.github.io/mao/post/424/">
+        </link>
+        <updated>2022-04-24T14:12:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>难道真的有人已经把毕设实验做完了？！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>难道真的有人已经把毕设实验做完了？！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中文排版指南]]></title>
+        <id>https://janedut.github.io/mao/post/zhong-wen-pai-ban-zhi-nan/</id>
+        <link href="https://janedut.github.io/mao/post/zhong-wen-pai-ban-zhi-nan/">
+        </link>
+        <updated>2022-04-24T13:45:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猫猫笔记]]></title>
+        <id>https://janedut.github.io/mao/post/mao-mao-bi-ji/</id>
+        <link href="https://janedut.github.io/mao/post/mao-mao-bi-ji/">
+        </link>
+        <updated>2022-04-24T01:38:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>《第二性 I：事实与神话》【法】西蒙娜·德·波伏瓦  译者：郑克鲁</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《第二性 I：事实与神话》【法】西蒙娜·德·波伏瓦  译者：郑克鲁</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.23]]></title>
+        <id>https://janedut.github.io/mao/post/423/</id>
+        <link href="https://janedut.github.io/mao/post/423/">
+        </link>
+        <updated>2022-04-23T14:32:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>和猫猫的一些日常~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>和猫猫的一些日常~</p>
+]]></content>
+    </entry>
+</feed>
