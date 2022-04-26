@@ -516,7 +516,7 @@ td {
 }
 .post-container .article {
   background: #FFF;
-  padding: 24px;
+  padding: 20px;
   border-radius: 15px;
   margin: 24px 0 0;
   transition-duration: 0.5s;
@@ -526,7 +526,7 @@ td {
   padding: 4px 6px;
   border-radius: 5px;
   width: fit-content;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
   color: #1E40AF;
   display: inline-block;
 }
@@ -566,13 +566,13 @@ td {
 .post-container .post .post-title {
   font-size: 20px;
   text-align: left;
-  margin: 10px 0;
+  margin-top: auto;
   font-weight: 900;
 }
 .post-container .post .post-info {
   text-align: left;
   font-size: 12px;
-  margin: 10px 0;
+  margin-top: auto;
   color: #9CA3AF;
   display: inline-block;
 }
@@ -593,9 +593,9 @@ td {
 .post-container .post .post-feature-image {
   display: block;
   width: 50%;
-  height: 140px;
-  margin: 30px 30px;
-  border-radius: 8px;
+  height: 160px;
+  margin: 0px 0px;
+  border-radius: 10px;
   overflow: hidden;
   background-size: cover;
   background-position: center;
@@ -768,7 +768,7 @@ span.vat {
 .post-detail .post .post-info {
   text-align: left;
   font-size: 14px;
-  margin: 24px 0;
+  margin: 0px 0 24px 0;
   color: #9CA3AF;
   display: inline-block;
 }
@@ -997,10 +997,6 @@ span.vat {
 @media (max-width: 600px) {
   .post-detail .post {
     padding: 16px;
-  }
-  .post-detail .post .post-title {
-    font-size: 24px;
-    padding: 16px 0;
   }
 }
 .archives-container {
