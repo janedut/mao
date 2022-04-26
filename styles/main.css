@@ -455,7 +455,6 @@ td {
 .nav-bar .menu-container a.menu {
   margin-right: 8px;
   padding: 8px 16px;
-  color: #1D4ED8;
 }
 .nav-bar .menu-container a.rss {
   font-size: 16px;
@@ -472,7 +471,7 @@ td {
   float: right;
 }
 .nav-bar .menu-container .menu:hover {
-  background-color: #EFF6FF;
+  background-color: #F3F4F6;
   border-radius: 5px;
 }
 .nav-bar .menu-container .rss:hover {
@@ -486,7 +485,7 @@ td {
     fill: #1a1a1a;
   }
   .nav-bar .menu-container a.menu {
-    color: #1ABC9C;
+    color: #fff;
   }
   .nav-bar .menu-container .menu:hover {
     background-color: #373737;
