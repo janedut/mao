@@ -394,7 +394,7 @@ td {
   height: 80px;
   display: block;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  border: solid 2px #73a499;
+  border: solid 2px #969696;
   border-radius: 50%;
 }
 .site-header .social-container {
