@@ -589,7 +589,7 @@ td {
   display: block;
   width: 50%;
   height: 160px;
-  margin: 0px 0px;
+  margin: 0px 0px 0px 20px;
   border-radius: 10px;
   overflow: hidden;
   background-size: cover;
